@@ -1,10 +1,5 @@
-* [install NVIDIA DRIVE™ OS 5.2.0 and DriveWorks 3.5 (Linux)](https://github.com/nvidia/dw-ros#install-nvidia-drive-os-520-and-driveworks-35-linux)
-* [cross compile ROS](https://github.com/nvidia/dw-ros#cross-compile-ros)
-* [cross compile nv_sensors](https://github.com/nvidia/dw-ros#cross-compile-nv_sensors)
-* [run on the target system](https://github.com/nvidia/dw-ros#run-on-the-target-system)
-
-## install NVIDIA DRIVE™ OS 5.2.0 and DriveWorks 3.5 (Linux)
-follow the download [page](https://developer.nvidia.com/drive/downloads) to install NVIDIA DRIVE™ OS 5.2.0 and DriveWorks 3.5 (Linux). 
+## install Drive OS 6.0.10.0-0009-build-linux-sdk and DriveWorks 5.20 (Linux)
+follow the download [page](https://developer.nvidia.com/drive/downloads) to install NVIDIA DRIVE™ OS 6.0.10 and DriveWorks 5.20.something (Linux). 
 
 ## cross compile ROS 
 * prepare a cross-compilation sysroot
